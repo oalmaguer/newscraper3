@@ -1,0 +1,3 @@
+[1218/203903.013:ERROR:file_io_win.cc(162)] CreateFile C:\Users\oli\AppData\Local\Temp\puppeteer_dev_chrome_profile-CS95nk\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[1218/203903.014:ERROR:file_io_win.cc(171)] CreateFile C:\Users\oli\AppData\Local\Temp\puppeteer_dev_chrome_profile-CS95nk\Crashpad\reports\0e520bc9-5c41-40fb-97d0-672c65b6b808.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[1218/203903.014:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed

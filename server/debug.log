@@ -1,0 +1,13 @@
+[1218/233807.017:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[1218/233807.019:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1218/233807.019:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[1219/000016.855:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[1219/000016.856:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1219/000016.856:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[1219/000814.908:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[1219/000814.909:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1219/000814.909:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[1219/003217.292:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[1219/003217.293:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1219/003217.294:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[1219/003217.294:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)

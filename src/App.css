@@ -1,11 +1,17 @@
 .App {
   text-align: center;
 }
+/* 
+.articulos {
+  display: flex;
+  justify-content: space-between;
+} */
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.articulos p {
+  font-size: 1em;
 }
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
